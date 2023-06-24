@@ -1,3 +1,9 @@
+# Oluwasegun Olagoroye
+# CS499
+# Artifact Number 3
+# Old Code version - Improvements
+#Database Artifact
+
 import sqlite3
 
 # Create a connection to the database
